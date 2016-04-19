@@ -22,7 +22,7 @@ However, due to my height, the gear available to me is limited. When I thumb thr
 
 I carry a tall [ZPacks 54L Arc Zip](http://www.zpacks.com/backpacks/arc_zip.shtml). It cost me $324.00 in 2015. It weights 1.3 lbs. It's very comfortable, and I love it.
 
-#### Notes
+##### Notes
 
 <small>Before I started transitioning to ultralight backpacking, I carred a [ULA Catalyst](http://www.ula-equipment.com/product_p/catalyst.htm "CATALYST  SHIPS FREE to US ADDRESSES"). It cost me $235.00 in 2009.</small>
 
@@ -32,7 +32,7 @@ I use a custom quilt made by [Goosefeet Gear](https://goosefeetgear.com/). It is
 
 I use a [Gossamer Gear Airbeam Sleeper](http://gossamergear.com/air-beam-sleepers.html) inflatable pad in the wide, torso length size. It cost me about $100 in 2014. It weights 0.9 pounds. I sometimes carry a 3 oz foam pad for extra insulation.
 
-#### Notes
+##### Notes
 
 <small>Buying sleeping pads isn't too difficult since they often don't need length of your body. Buying a bag or quilt is much hard. I highly recommend finding a small shop like Goosefeet Gear to make one to your specs.</small>
 
@@ -44,7 +44,7 @@ I sleep under a [Bearpawwd](http://www.bearpawwd.com/) 8'x10' silnylon, rectangu
 
 On the ground, I have a 105"x48" piece of 0.007" thick Tyvek. It weighs 8 oz.
 
-#### Notes
+##### Notes
 
 <small>Finding a tent that will fit me inside and keep me dry has been nearly impossible. An advantage of this shelter is that my wife and I can both fit under it easily.</small>
 
