@@ -2,7 +2,7 @@
 
 I'm 6' 9". This doesn't just result in [copious comments from strangers](http://doyouplayball.tumblr.com), it also makes many activities difficult.
 
-For the last 8 years, backpacking has been a pasttime. Due to the influence of my friend [Ron Babington](http://www.blueridgeoutdoors.com/biking/the-worlds-toughest-bike-race-on-a-singlespeed/)[^ron], I've been working towards building an [ultralight pack](https://en.wikipedia.org/wiki/Ultralight_backpacking).
+For the last 8 years, backpacking has been a past time. Due to the influence of my friend [Ron Babington](http://www.blueridgeoutdoors.com/biking/the-worlds-toughest-bike-race-on-a-singlespeed/)[^ron], I've been working towards building an [ultralight pack](https://en.wikipedia.org/wiki/Ultralight_backpacking).
 
 However, due to my height, the gear available to me is limited. When I thumb through [Backpacker magazine](http://www.backpacker.com/ "Backpacker Magazine - Your Backpacking, Hiking, Camping and Outdoor Gear Magazine")'s annual gear issue, I breeze past the shoes, jackets, shirts, pants, tents, sleeping bags, and packs because most of the items won't fit my long body.
 
@@ -16,6 +16,8 @@ However, due to my height, the gear available to me is limited. When I thumb thr
 * __Shoe size__: 16 US
 * __Shirt size__: Medium or large extra tall[^torso]
 
+<center><img src="images/dix.jpg" width="80%"></center>
+
 ## My gear
 
 ### Pack
@@ -24,7 +26,7 @@ I carry a tall [ZPacks 54L Arc Zip](http://www.zpacks.com/backpacks/arc_zip.shtm
 
 ##### Notes
 
-<small>Before I started transitioning to ultralight backpacking, I carred a [ULA Catalyst](http://www.ula-equipment.com/product_p/catalyst.htm "CATALYST  SHIPS FREE to US ADDRESSES"). It cost me $235.00 in 2009.</small>
+<small>Before I started transitioning to ultralight backpacking, I carried a [ULA Catalyst](http://www.ula-equipment.com/product_p/catalyst.htm "CATALYST  SHIPS FREE to US ADDRESSES"). It cost me $235.00 in 2009.</small>
 
 ### Sleeping quilt and mat
 
