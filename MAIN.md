@@ -97,4 +97,4 @@ I don't have a [wind shirt](http://sectionhiker.com/what-is-a-wind-shirt/) and h
 
 
 [^torso]: My legs aren't _that_ long given my height. My height comes mostly from a long torso. It makes finding shirts especially hard.
-[^ron]: Ron hiked the Appalachian Trail with a baseweight of 6 lbs.
+[^ron]: Ron hiked the Appalachian Trail with a base weight of 6 lbs.
