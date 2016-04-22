@@ -40,6 +40,8 @@ I use a [Gossamer Gear Airbeam Sleeper](http://gossamergear.com/air-beam-sleeper
 
 <small>Before getting the quilt, I had the enormous and warm Sierra Designs Paul Bunyan mummy bag. It weighs 4 lbs!</small>
 
+<small>I talked to [Nunatak](https://nunatakusa.com/ "Nunatak Equipment") about a quilt. They said they'd do it for around $500. Zpacks and Feathered Friends said they wouldn't do a custom quilt.</small>
+
 ### Shelter
 
 I sleep under a [Bearpawwd](http://www.bearpawwd.com/) 8'x10' silnylon, rectangular tarp pitched between two trekking poles. It weights 1.1 pounds. It cost me $71.00 in 2015.
@@ -49,6 +51,8 @@ On the ground, I have a 105"x48" piece of 0.007" thick Tyvek. It weighs 8 oz.
 ##### Notes
 
 <small>Finding a tent that will fit me inside and keep me dry has been nearly impossible. An advantage of this shelter is that my wife and I can both fit under it easily.</small>
+
+<small>Before I got the 8x10, I had a [MacCat Deluxe](http://www.outdoorequipmentsupplier.com/maccat_tarps.php) from Outdoor Equipment Supplier. It was big, but I was afraid that it wouldn't keep me dry in the rain due to the cut.</small>
 
 <small>I am considering buying a customized sized, cuben fiber bivy from [Borah Gear](http://borahgear.com) as additional protection from wet ground and insects.</small>
 
