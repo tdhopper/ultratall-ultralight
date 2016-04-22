@@ -60,6 +60,10 @@ On the ground, I have a 105"x48" piece of 0.007" thick Tyvek. It weighs 8 oz.
 
 <small>I [started a thread](https://backpackinglight.com/forums/topic/current-state-of-tents-for-the-very-tall) on the topic of tents for the very tall at BPL. It's worth reading through.</small>
 
+### Trekking Poles
+
+I carry the [Leki](http://usa.leki.com/ "Welcome page  All LEKI Technologies at a single glance - LEKI") Aergon poles. I hike with them and use them to pitch my tarp. I am happy with them.
+
 ### Clothes
 
 Clothes are surprisingly hard to buy. I wish I could go buy everything [Andrew Skurka](http://andrewskurka.com/tag/core-13/) recommends, but most of it wouldn't fit me.
