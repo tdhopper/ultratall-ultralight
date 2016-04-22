@@ -6,6 +6,13 @@ For the last 8 years, backpacking has been a past time. Due to the influence of 
 
 However, due to my height, the gear available to me is limited. When I thumb through [Backpacker magazine](http://www.backpacker.com/ "Backpacker Magazine - Your Backpacking, Hiking, Camping and Outdoor Gear Magazine")'s annual gear issue, I breeze past the shoes, jackets, shirts, pants, tents, sleeping bags, and packs because most of the items won't fit my long body.
 
+Over the last 6 years, I've gradually made my pack lighter and lighter. Along the way, I've learned a good amount about what will and won't work for an unusually tall backpacker. I am trying to share that information here in hopes that others can benefit.
+
+At the same time, I'm far from satisfied with the gear I have in my pack. I would love for you to join the conversation about how the ultratall can enjoy the backcountry. Please leave your comments at the bottom of the page or email me: tdhopper@gmail.com.
+
+<div style="text-align:right;">— Tim Hopper</div>
+
+
 ## More about me
 
 
