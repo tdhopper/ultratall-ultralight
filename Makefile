@@ -1,5 +1,5 @@
 all: render upload
-	echo "done"
+	git push
 
 render:
 	pandoc -s --from=markdown_mmd --to=html MAIN.md --output=site/index.html --template template.html --toc --toc-depth 2
