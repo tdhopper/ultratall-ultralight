@@ -38,7 +38,7 @@ I carry a tall [ZPacks 54L Arc Zip](http://www.zpacks.com/backpacks/arc_zip.shtm
 
 ### Sleeping quilt and mat
 
-I use a custom quilt made by [Goosefeet Gear](https://goosefeetgear.com/). It is overstuffed with 850 FP DownTek, in 1.75" vertical baffles. There are snaps and a drawstring to create a footbox. Goosefeet sized it based on some measurements I gave them, and I am extremely happy with it. It weighs 1.5 lbs. It cost me $395 in 2014.
+I use a custom quilt made by [Goosefeet Gear](https://goosefeetgear.com/). It is overstuffed with 850 FP DownTek, in 1.75" vertical baffles. There are snaps and a drawstring to create a footbox. Goosefeet sized it based on some measurements I gave them, and I am extremely happy with it. It weighs 1.5 lbs and packs into a 5L stuff sack. It cost me $395 in 2014.
 
 I use a [Gossamer Gear Airbeam Sleeper](http://gossamergear.com/air-beam-sleepers.html) inflatable pad in the wide, torso length size. It cost me about $100 in 2014. It weights 0.9 pounds. I sometimes carry a 3 oz foam pad for extra insulation.
 
@@ -101,7 +101,12 @@ I don't have any trouble with XL socks; they typically say for feet up to size 1
 
 I carry a $20 [NWT Men's HAWKE & CO Packable Down vest](http://www.ebay.com/itm/-/221345899344?ssPageName=ADME:L:OC:US:3160) that I bought on eBay a few years ago. It's not long enough to be fashionable, but it's cheap, light, and warm; I highly recommend having one.
 
+I have a large [Sunday Afternoons Sun Tripper Cap](https://www.sundayafternoons.com/p/sun-tripper-cap/). It's very light and folds nicely to stuff in a pack.
+
+I carry a pair of Outdoor Research liner gloves.
+
 I don't have a [wind shirt](http://sectionhiker.com/what-is-a-wind-shirt/) and haven't been able to find anything that has sufficiently long sleeves and waist; I would love to have something for windy mountain tops and running on windy mornings. The large Patagonia Houdini Jacket didn't fit me. I have considered trying a [ZPacks Ventum](http://www.zpacks.com/accessories/wind_shell.shtml).
+
 
 
 [^torso]: My legs aren't _that_ long given my height. My height comes mostly from a long torso. It makes finding shirts especially hard.
