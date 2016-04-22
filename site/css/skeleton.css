@@ -6,7 +6,13 @@
 * http://www.opensource.org/licenses/mit-license.php
 * 12/29/2014
 */
-
+.caption {
+    font-size: 0.5em;
+    line-height: .9;
+    text-align: right;
+    margin-top: -5px;
+    padding-right: 20px;
+}
 
 /* Table of contents
 ––––––––––––––––––––––––––––––––––––––––––––––––––
