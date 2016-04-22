@@ -62,7 +62,7 @@ On the ground, I have a 105"x48" piece of 0.007" thick Tyvek. It weighs 8 oz.
 
 ### Clothes
 
-Clothes are surprisingly hard to buy.
+Clothes are surprisingly hard to buy. I wish I could go buy everything [Andrew Skurka](http://andrewskurka.com/tag/core-13/) recommends, but most of it wouldn't fit me.
 
 #### Trail Wear
 
@@ -75,7 +75,9 @@ I typically sleep in large, tall [Cabela's Men's E.C.W.C.S. Polar Weight Hoodie 
 
 #### Rain Gear
 
-I have a large, tall [Marmot PreCip Rain Jacket](https://www.rei.com/product/863345/marmot-precip-rain-jacket-mens-tall). It was soak through when I hiked in it 8 hours of heavy rain a few years ago, but it's great for light rain.
+I have a large, tall [Marmot PreCip Rain Jacket](https://www.rei.com/product/863345/marmot-precip-rain-jacket-mens-tall). It was soak through when I hiked in it 8 hours of heavy rain a few years ago, but it's great for light rain. I have a pair of cheap, generic rain pants I picked up somewhere along the way; they're not long enough.
+
+I have considered a [cuben fiber](http://www.zpacks.com/accessories/groundsheet_poncho.shtml) [poncho](http://www.mountainlaureldesigns.com/shop/product_info.php?products_id=56) ($$$) or an [ultralight](http://snowpeak.com/products/ultra-light-grey-umbrella) [umbrella](http://gossamergear.com/chrome-umbrella.html), but have not invested in either.
 
 #### Other
 
