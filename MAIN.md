@@ -23,7 +23,7 @@ At the same time, I'm far from satisfied with the gear I have in my pack. I woul
 * __Shirt size__: Medium or large extra tall[^torso]
 
 <center><img src="images/dix.jpg" width="80%"></center>
-<div class="caption">On [Dix Mountain](https://en.wikipedia.org/wiki/Dix_Mountain), Summer 2014.</div>
+<div class="caption">On [Dix Mountain](https://en.wikipedia.org/wiki/Dix_Mountain), Summer 2014</div>
 
 
 ## My gear
