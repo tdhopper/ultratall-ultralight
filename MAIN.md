@@ -79,6 +79,12 @@ I have a large, tall [Marmot PreCip Rain Jacket](https://www.rei.com/product/863
 
 I have considered a [cuben fiber](http://www.zpacks.com/accessories/groundsheet_poncho.shtml) [poncho](http://www.mountainlaureldesigns.com/shop/product_info.php?products_id=56) ($$$) or an [ultralight](http://snowpeak.com/products/ultra-light-grey-umbrella) [umbrella](http://gossamergear.com/chrome-umbrella.html), but have not invested in either.
 
+#### Footwear
+
+The shoe selection at size 16 is very limited. I hike in the Columbia North Plains Vent shoe; they're fine. I have some Keen: Targhee II Mid boots I used to backpack in; they're very light, which is nice.
+
+I don't have any trouble with XL socks; they typically say for feet up to size 16, but they fit my size 16 feet. I typically wear wool quarter socks.
+
 #### Other
 
 I carry a $20 [NWT Men's HAWKE & CO Packable Down vest](http://www.ebay.com/itm/-/221345899344?ssPageName=ADME:L:OC:US:3160) that I bought on eBay a few years ago. It's not long enough to be fashionable, but it's cheap, light, and warm; I highly recommend having one.
