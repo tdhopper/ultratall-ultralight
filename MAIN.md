@@ -40,7 +40,7 @@ I use a [Gossamer Gear Airbeam Sleeper](http://gossamergear.com/air-beam-sleeper
 
 <small>Before getting the quilt, I had the enormous and warm Sierra Designs Paul Bunyan mummy bag. It weighs 4 lbs!</small>
 
-<small>I talked to [Nunatak](https://nunatakusa.com/ "Nunatak Equipment") about a quilt. They said they'd do it for around $500. Zpacks and Feathered Friends said they wouldn't do a custom quilt.</small>
+<small>I talked to [Nunatak](https://nunatakusa.com/ "Nunatak Equipment") about a quilt. They said they'd do it for around $500. ZPacks and Feathered Friends said they wouldn't do a custom quilt.</small>
 
 ### Shelter
 
@@ -60,6 +60,28 @@ On the ground, I have a 105"x48" piece of 0.007" thick Tyvek. It weighs 8 oz.
 
 <small>I [started a thread](https://backpackinglight.com/forums/topic/current-state-of-tents-for-the-very-tall) on the topic of tents for the very tall at BPL. It's worth reading through.</small>
 
+### Clothes
+
+Clothes are surprisingly hard to buy.
+
+#### Trail Wear
+
+Currently have the [Columbia Silver Ridge Convertible Pant](http://www.amazon.com/Columbia-Silver-Ridge-Convertible-36x34/dp/B0058YWPEM) in a 38x34. Buying hiking pants in a 34" inseam is easy; 36" is much harder. I have REI Sahara Medium Tall shirts in [long](https://www.rei.com/product/863048/rei-sahara-long-sleeve-t-shirt-mens-tall?cm_mmc=email_tran-_-rspu-_-20150415-_-itemdesc&RMID=RSPU_Sterling&RRID=28032313&ev11=) and [short](https://www.rei.com/product/863046/rei-sahara-t-shirt-mens-tall?cm_mmc=email_tran-_-rspu-_-20150401-_-itemdesc&RMID=RSPU_Sterling&RRID=28032313&ev11=) sleeve. REI has tragically stopped selling these; I bought two of each last year, thankfully. If anyone has a good alternative, please let me know. I typically wear [Under Armour Men's HeatGear Sonic Compression Shorts](http://smile.amazon.com/dp/B008BIC1TQ/ref=pe_385040_30332190_TE_dp_2) in a size Large.
+
+#### Base Layer
+
+I typically sleep in large, tall [Cabela's Men's E.C.W.C.S. Polar Weight Hoodie with Polartec Power Dry](http://www.cabelas.com/product/Cabelas-Mens-E-C-W-C-S-Polar-Weight-Hoodie-with-Polartec-Power-Dry-Tall/1900679.uts) or a [Cabela's Men's E.C.W.C.S. Power Dry Silk-Weight Crew with Polartec](http://www.cabelas.com/product/Cabelas-Mens-E-C-W-C-S-Power-Dry-Silk-Weight-Crew-with-Polartec-reg-Tall/1890756.uts) top; neither is long enough. I have a pair of black thermal pants that I've had for 10 years that I wear on my legs.
+
+
+#### Rain Gear
+
+I have a large, tall [Marmot PreCip Rain Jacket](https://www.rei.com/product/863345/marmot-precip-rain-jacket-mens-tall). It was soak through when I hiked in it 8 hours of heavy rain a few years ago, but it's great for light rain.
+
+#### Other
+
+I carry a $20 [NWT Men's HAWKE & CO Packable Down vest](http://www.ebay.com/itm/-/221345899344?ssPageName=ADME:L:OC:US:3160) that I bought on eBay a few years ago. It's not long enough to be fashionable, but it's cheap, light, and warm; I highly recommend having one.
+
+I don't have a [wind shirt](http://sectionhiker.com/what-is-a-wind-shirt/) and haven't been able to find anything that has sufficiently long sleeves and waist; I would love to have something for windy mountain tops and running on windy mornings. The large Patagonia Houdini Jacket didn't fit me. I have considered trying a [ZPacks Ventum](http://www.zpacks.com/accessories/wind_shell.shtml).
 
 
 [^torso]: My legs aren't _that_ long given my height. My height comes mostly from a long torso. It makes finding shirts especially hard.
