@@ -36,6 +36,8 @@ I carry a tall [ZPacks 54L Arc Zip](http://www.zpacks.com/backpacks/arc_zip.shtm
 
 <small>Before I started transitioning to ultralight backpacking, I carried a [ULA Catalyst](http://www.ula-equipment.com/product_p/catalyst.htm "CATALYST  SHIPS FREE to US ADDRESSES"). It cost me $235.00 in 2009.</small>
 
+<small>Ron Bell, founder of [Mountain Laurel Designs](https://www.mountainlaureldesigns.com/) told me on Backpacking Light that they frequently make packs for tall folks.</small>
+
 ### Sleeping quilt and mat
 
 I use a custom quilt made by [Goosefeet Gear](https://goosefeetgear.com/). It is overstuffed with 850 FP DownTek, in 1.75" vertical baffles. There are snaps and a drawstring to create a footbox. Goosefeet sized it based on some measurements I gave them, and I am extremely happy with it. It weighs 1.5 lbs and packs into a 5L stuff sack. It cost me $395 in 2014.
@@ -48,7 +50,8 @@ I use a [Gossamer Gear Airbeam Sleeper](http://gossamergear.com/air-beam-sleeper
 
 <small>Before getting the quilt, I had the enormous and warm Sierra Designs Paul Bunyan mummy bag. It weighs 4 lbs!</small>
 
-<small>I talked to [Nunatak](https://nunatakusa.com/ "Nunatak Equipment") about a quilt. They said they'd do it for around $500. ZPacks and Feathered Friends said they wouldn't do a custom quilt.</small>
+<small>I talked to [Nunatak](https://nunatakusa.com/ "Nunatak Equipment") about a quilt. They said they'd do it for around $500. ZPacks and Feathered Friends said they wouldn't do a custom quilt. Ron Bell, founder of [Mountain Laurel Designs](https://www.mountainlaureldesigns.com/) told me on Backpacking Light that they frequently make quilts for tall folks.</small>
+
 
 ### Shelter
 
@@ -82,7 +85,7 @@ Currently have the [Columbia Silver Ridge Convertible Pant](http://www.amazon.co
 
 ##### Notes
 
-[On Reddit](https://www.reddit.com/r/Ultralight/comments/4fxx0t/im_6_9_and_have_started_collecting_my_notes_on/) people had several suggestions for other brands to look at: [Fjällräven](http://www.fjallraven.com/), [Kuhl](http://www.kuhl.com/kuhl/mens/pants/), [Mountain Khakis](http://www.mountainkhakis.com/), and [Prana](https://www.prana.com) pants.
+<small>[On Reddit](https://www.reddit.com/r/Ultralight/comments/4fxx0t/im_6_9_and_have_started_collecting_my_notes_on/) people had several suggestions for other brands to look at: [Fjällräven](http://www.fjallraven.com/), [Kuhl](http://www.kuhl.com/kuhl/mens/pants/), [Mountain Khakis](http://www.mountainkhakis.com/), and [Prana](https://www.prana.com) pants.</small>
 
 #### Base Layer
 
@@ -94,6 +97,8 @@ I typically sleep in large, tall [Cabela's Men's E.C.W.C.S. Polar Weight Hoodie 
 I have a large, tall [Marmot PreCip Rain Jacket](https://www.rei.com/product/863345/marmot-precip-rain-jacket-mens-tall). It was soak through when I hiked in it 8 hours of heavy rain a few years ago, but it's great for light rain. I have a pair of cheap, generic rain pants I picked up somewhere along the way; they're not long enough.
 
 I have considered a [cuben fiber](http://www.zpacks.com/accessories/groundsheet_poncho.shtml) [poncho](http://www.mountainlaureldesigns.com/shop/product_info.php?products_id=56) ($$$) or an [ultralight](http://snowpeak.com/products/ultra-light-grey-umbrella) [umbrella](http://gossamergear.com/chrome-umbrella.html), but have not invested in either.
+
+Luke from [Luke's Ultralight](http://lukesultralite.com) told me he'll add extra length to his Argon Wind Shirt. I suspect he would do similarly for his rain gear.
 
 #### Footwear
 
@@ -109,8 +114,7 @@ I have a large [Sunday Afternoons Sun Tripper Cap](https://www.sundayafternoons.
 
 I carry a pair of Outdoor Research liner gloves.
 
-I don't have a [wind shirt](http://sectionhiker.com/what-is-a-wind-shirt/) and haven't been able to find anything that has sufficiently long sleeves and waist; I would love to have something for windy mountain tops and running on windy mornings. The large Patagonia Houdini Jacket didn't fit me. I have considered trying a [ZPacks Ventum](http://www.zpacks.com/accessories/wind_shell.shtml).
-
+I don't have a [wind shirt](http://sectionhiker.com/what-is-a-wind-shirt/) and haven't been able to find anything that has sufficiently long sleeves and waist; I would love to have something for windy mountain tops and running on windy mornings. The large Patagonia Houdini Jacket didn't fit me. I have considered trying a [ZPacks Ventum](http://www.zpacks.com/accessories/wind_shell.shtml). Luke from [Luke's Ultralight](http://lukesultralite.com) does custom sizing for his Argon Wind Shirt. I asked about extra torso and sleeve length. He told me, "If you need 2in more or below its free.  Above that its $10 more for the argon wind shell."
 
 
 [^torso]: My legs aren't _that_ long given my height. My height comes mostly from a long torso. It makes finding shirts especially hard.
