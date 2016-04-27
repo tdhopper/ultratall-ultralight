@@ -80,6 +80,10 @@ Clothes are surprisingly hard to buy. I wish I could go buy everything [Andrew S
 
 Currently have the [Columbia Silver Ridge Convertible Pant](http://www.amazon.com/Columbia-Silver-Ridge-Convertible-36x34/dp/B0058YWPEM) in a 38x34. Buying hiking pants in a 34" inseam is easy; 36" is much harder. I have REI Sahara Medium Tall shirts in [long](https://www.rei.com/product/863048/rei-sahara-long-sleeve-t-shirt-mens-tall?cm_mmc=email_tran-_-rspu-_-20150415-_-itemdesc&RMID=RSPU_Sterling&RRID=28032313&ev11=) and [short](https://www.rei.com/product/863046/rei-sahara-t-shirt-mens-tall?cm_mmc=email_tran-_-rspu-_-20150401-_-itemdesc&RMID=RSPU_Sterling&RRID=28032313&ev11=) sleeve. REI has tragically stopped selling these; I bought two of each last year, thankfully. If anyone has a good alternative, please let me know. I typically wear [Under Armour Men's HeatGear Sonic Compression Shorts](http://smile.amazon.com/dp/B008BIC1TQ/ref=pe_385040_30332190_TE_dp_2) in a size Large.
 
+##### Notes
+
+[On Reddit](https://www.reddit.com/r/Ultralight/comments/4fxx0t/im_6_9_and_have_started_collecting_my_notes_on/) people had several suggestions for other brands to look at: [Fjällräven](http://www.fjallraven.com/), [Kuhl](http://www.kuhl.com/kuhl/mens/pants/), [Mountain Khakis](http://www.mountainkhakis.com/), and [Prana](https://www.prana.com) pants.
+
 #### Base Layer
 
 I typically sleep in large, tall [Cabela's Men's E.C.W.C.S. Polar Weight Hoodie with Polartec Power Dry](http://www.cabelas.com/product/Cabelas-Mens-E-C-W-C-S-Polar-Weight-Hoodie-with-Polartec-Power-Dry-Tall/1900679.uts) or a [Cabela's Men's E.C.W.C.S. Power Dry Silk-Weight Crew with Polartec](http://www.cabelas.com/product/Cabelas-Mens-E-C-W-C-S-Power-Dry-Silk-Weight-Crew-with-Polartec-reg-Tall/1890756.uts) top; neither is long enough. I have a pair of black thermal pants that I've had for 10 years that I wear on my legs.
