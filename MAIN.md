@@ -8,12 +8,7 @@ However, due to my height, the gear available to me is limited. When I thumb thr
 
 Over the last 6 years, I've gradually made my pack lighter and lighter. Along the way, I've learned a good amount about what will and won't work for an unusually tall backpacker. I am trying to share that information here in hopes that others can benefit.
 
-At the same time, I'm far from satisfied with the gear I have in my pack. I would love for you to join the conversation about how the ultratall can enjoy the backcountry. Please leave your comments at the bottom of the page or email me: <script language="JavaScript"><!--
-var name = "tdhopper";
-var domain = "gmail.com";
-document.write('<a href=\"mailto:' + name + '@' + domain + '\">');
-document.write(name + '@' + domain + '</a>');
-// --></script>.
+At the same time, I'm far from satisfied with the gear I have in my pack. I would love for you to join the conversation about how the ultratall can enjoy the backcountry. Please leave your comments at [the bottom of the page](#comments).
 
 <div style="text-align:right;">— Tim Hopper</div>
 
