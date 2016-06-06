@@ -98,7 +98,7 @@ I have a large, tall [Marmot PreCip Rain Jacket](https://www.rei.com/product/863
 
 I have considered a [cuben fiber](http://www.zpacks.com/accessories/groundsheet_poncho.shtml) [poncho](http://www.mountainlaureldesigns.com/shop/product_info.php?products_id=56) ($$$) or an [ultralight](http://snowpeak.com/products/ultra-light-grey-umbrella) [umbrella](http://gossamergear.com/chrome-umbrella.html), but have not invested in either.
 
-Luke from [Luke's Ultralight](http://lukesultralite.com) told me he'll add extra length to his Argon Wind Shirt. I suspect he would do similarly for his rain gear.
+Luke from [Luke's Ultralight](http://lukesultralite.com) added length to a wind shell; I suspect he would do similarly for his rain gear.
 
 #### Windshirt
 
