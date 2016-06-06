@@ -100,6 +100,16 @@ I have considered a [cuben fiber](http://www.zpacks.com/accessories/groundsheet_
 
 Luke from [Luke's Ultralight](http://lukesultralite.com) told me he'll add extra length to his Argon Wind Shirt. I suspect he would do similarly for his rain gear.
 
+#### Windshirt
+
+I bought a customized [Argon Wind Shell from Luke's Ultralight](http://lukesultralite.com/argon-wind-shell). Luke added 4" to the torso and made the sleeves 23" from pit to wrist. With pit-zips and adjustable cuffs, it cost me $112 in 2016. Luke did amazing work on this; the fit is perfect.
+
+
+##### Notes
+
+The large Patagonia Houdini Jacket didn't fit me. I considered trying a [ZPacks Ventum](http://www.zpacks.com/accessories/wind_shell.shtml).
+
+
 #### Footwear
 
 The shoe selection at size 16 is very limited. I hike in the Columbia North Plains Vent shoe; they're fine. I have some Keen: Targhee II Mid boots I used to backpack in; they're very light, which is nice.
@@ -113,9 +123,6 @@ I carry a $20 [NWT Men's HAWKE & CO Packable Down vest](http://www.ebay.com/itm/
 I have a large [Sunday Afternoons Sun Tripper Cap](https://www.sundayafternoons.com/p/sun-tripper-cap/). It's very light and folds nicely to stuff in a pack.
 
 I carry a pair of Outdoor Research liner gloves.
-
-I don't have a [wind shirt](http://sectionhiker.com/what-is-a-wind-shirt/) and haven't been able to find anything that has sufficiently long sleeves and waist; I would love to have something for windy mountain tops and running on windy mornings. The large Patagonia Houdini Jacket didn't fit me. I have considered trying a [ZPacks Ventum](http://www.zpacks.com/accessories/wind_shell.shtml). Luke from [Luke's Ultralight](http://lukesultralite.com) does custom sizing for his Argon Wind Shirt. I asked about extra torso and sleeve length. He told me, "If you need 2in more or below its free.  Above that its $10 more for the argon wind shell."
-
 
 [^torso]: My legs aren't _that_ long given my height. My height comes mostly from a long torso. It makes finding shirts especially hard.
 [^ron]: Ron hiked the Appalachian Trail with a base weight of 6 lbs.
