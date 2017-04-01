@@ -34,12 +34,12 @@ $highlighting-css$
 $endif$
 
 <link rel="stylesheet" href="css/bigfoot-default.css"/>
-<link rel="stylesheet" href="css/skeleton.css"/>
-<link rel="stylesheet" href="css/normalize.css"/>
+<link rel="stylesheet" href="css/bootstrap.min.css"/>
 
 
-<script type="text/javascript" src="js/jquery-1.8.3.min.js"></script>
+<script type="text/javascript" src="js/jquery-3.2.0.min.js"></script>
 <script type="text/javascript" src="js/bigfoot.min.js"></script>
+<script type="text/javascript" src="js/bootstrap.min.js"></script>
 
 
 <script>
@@ -65,9 +65,10 @@ $endfor$
         <!-- $toc$ -->
 
       $endif$
-      <div class="twelve columns"><img src="images/rockytop.png" width="100%"></div>
+        <div class="jumbotron" style="background: url('/images/rockytop.png') no-repeat center center;min-height: 400px;">
+      </div>
 
-      <div class="ten columns offset-by-one">
+      <div class="col-sm-8 col-sm-offset-2">
       $for(include-before)$
       $include-before$
       $endfor$
@@ -78,7 +79,7 @@ $endfor$
       </div>
     </div>
     <div class="row">
-      <div class="eight columns offset-by-two">
+      <div class="col-sm-8 col-sm-offset-2">
         <div id="disqus_thread"></div>
         <a name="comments"></a>
           <script>
