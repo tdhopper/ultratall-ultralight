@@ -107,7 +107,7 @@ I bought a customized [Argon Wind Shell from Luke's Ultralight](http://lukesultr
 
 ##### Notes
 
-The large Patagonia Houdini Jacket didn't fit me. I considered trying a [ZPacks Ventum](http://www.zpacks.com/accessories/wind_shell.shtml).
+<small>The large Patagonia Houdini Jacket didn't fit me. I considered trying a [ZPacks Ventum](http://www.zpacks.com/accessories/wind_shell.shtml).</small>
 
 
 #### Footwear
