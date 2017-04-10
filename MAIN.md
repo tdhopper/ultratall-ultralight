@@ -107,12 +107,12 @@ I bought a customized [Argon Wind Shell from Luke's Ultralight](http://lukesultr
 
 #### Notes
 
-<small>The large Patagonia Houdini Jacket didn't fit me. I considered trying a [ZPacks Ventum](http://www.zpacks.com/accessories/wind_shell.shtml).</small>
+<small>The large _Patagonia Houdini Jacket_ didn't fit me. I considered trying a [ZPacks Ventum](http://www.zpacks.com/accessories/wind_shell.shtml).</small>
 
 
 #### Footwear
 
-The shoe selection at size 16 is very limited. I hike in the Columbia North Plains Vent shoe; they're fine. I have some Keen: Targhee II Mid boots I used to backpack in; they're very light, which is nice.
+The shoe selection at size 16 is very limited. I hike in the _Columbia North Plains Vent_ shoe; they're fine. I have some [Keen: Targhee II Mid](https://www.amazon.com/Targhee-II-Hiking-Raven-Tortoise/dp/B00RM22H1Y/=/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=dothopper-20&linkId=fa2c23b68dd6fdaac946fd615de4087b) boots I used to backpack in; they're very light, which is nice.
 
 I don't have any trouble with XL socks; they typically say for feet up to size 16, but they fit my size 16 feet. I typically wear wool quarter socks.
 
@@ -120,7 +120,7 @@ I don't have any trouble with XL socks; they typically say for feet up to size 1
 
 I carry a $20 [NWT Men's HAWKE & CO Packable Down vest](http://www.ebay.com/itm/-/221345899344?ssPageName=ADME:L:OC:US:3160) that I bought on eBay a few years ago. It's not long enough to be fashionable, but it's cheap, light, and warm; I highly recommend having one.
 
-I have a large [Sunday Afternoons Sun Tripper Cap](https://www.sundayafternoons.com/p/sun-tripper-cap/). It's very light and folds nicely to stuff in a pack.
+I have a large [Sunday Afternoons Sun Tripper Cap](https://www.amazon.com/Sunday-Afternoons-Tripper-Cream-Large/dp/B003AHRGLG//ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=dothopper-20&linkId=6f78e4f913dad7c8dcd6804349a01254). It's very light and folds nicely to stuff in a pack.
 
 I carry a pair of Outdoor Research liner gloves.
 
