@@ -1,0 +1,4 @@
+small:before {
+    content: "\00BB";
+    margin-right: 6px;
+}

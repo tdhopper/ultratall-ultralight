@@ -32,7 +32,7 @@ At the same time, I'm far from satisfied with the gear I have in my pack. I woul
 
 I carry a tall [ZPacks 54L Arc Zip](http://www.zpacks.com/backpacks/arc_zip.shtml). It cost me $324.00 in 2015. It weights 1.3 lbs. It's very comfortable, and I love it.
 
-##### Notes
+#### Notes
 
 <small>Before I started transitioning to ultralight backpacking, I carried a [ULA Catalyst](http://www.ula-equipment.com/product_p/catalyst.htm "CATALYST  SHIPS FREE to US ADDRESSES"). It cost me $235.00 in 2009.</small>
 
@@ -44,7 +44,7 @@ I use a custom quilt made by [Goosefeet Gear](https://goosefeetgear.com/). It is
 
 I use a [Gossamer Gear Airbeam Sleeper](http://gossamergear.com/air-beam-sleepers.html) inflatable pad in the wide, torso length size. It cost me about $100 in 2014. It weights 0.9 pounds. I sometimes carry a 3 oz foam pad for extra insulation.
 
-##### Notes
+#### Notes
 
 <small>Buying sleeping pads isn't too difficult since they often don't need length of your body. Buying a bag or quilt is much hard. I highly recommend finding a small shop like Goosefeet Gear to make one to your specs.</small>
 
@@ -59,7 +59,7 @@ I sleep under a [Bearpawwd](http://www.bearpawwd.com/) 8'x10' silnylon, rectangu
 
 On the ground, I have a 105"x48" piece of 0.007" thick Tyvek. It weighs 8 oz.
 
-##### Notes
+#### Notes
 
 <small>Finding a tent that will fit me inside and keep me dry has been nearly impossible. An advantage of this shelter is that my wife and I can both fit under it easily.</small>
 
@@ -81,9 +81,9 @@ Clothes are surprisingly hard to buy. I wish I could go buy everything [Andrew S
 
 #### Trail Wear
 
-Currently have the [Columbia Silver Ridge Convertible Pant](http://www.amazon.com/Columbia-Silver-Ridge-Convertible-36x34/dp/B0058YWPEM) in a 38x34. Buying hiking pants in a 34" inseam is easy; 36" is much harder. I have REI Sahara Medium Tall shirts in [long](https://www.rei.com/product/863048/rei-sahara-long-sleeve-t-shirt-mens-tall?cm_mmc=email_tran-_-rspu-_-20150415-_-itemdesc&RMID=RSPU_Sterling&RRID=28032313&ev11=) and [short](https://www.rei.com/product/863046/rei-sahara-t-shirt-mens-tall?cm_mmc=email_tran-_-rspu-_-20150401-_-itemdesc&RMID=RSPU_Sterling&RRID=28032313&ev11=) sleeve. REI has tragically stopped selling these; I bought two of each last year, thankfully. If anyone has a good alternative, please let me know. I typically wear [Under Armour Men's HeatGear Sonic Compression Shorts](http://smile.amazon.com/dp/B008BIC1TQ/ref=pe_385040_30332190_TE_dp_2) in a size Large.
+Currently have the [Columbia Silver Ridge Convertible Pant](https://www.amazon.com/Columbia-Silver-Ridge-Convertible-36x34/dp/B0058YWPEM/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=dothopper-20&linkId=fbea00a687ae2b338369dc1f5eb7d988) in a 38x34. Buying hiking pants in a 34" inseam is easy; 36" is much harder. I have REI Sahara Medium Tall shirts in [long](https://www.rei.com/product/863048/rei-sahara-long-sleeve-t-shirt-mens-tall?cm_mmc=email_tran-_-rspu-_-20150415-_-itemdesc&RMID=RSPU_Sterling&RRID=28032313&ev11=) and [short](https://www.rei.com/product/863046/rei-sahara-t-shirt-mens-tall?cm_mmc=email_tran-_-rspu-_-20150401-_-itemdesc&RMID=RSPU_Sterling&RRID=28032313&ev11=) sleeve. REI has tragically stopped selling these; I bought two of each last year, thankfully. If anyone has a good alternative, please let me know. I typically wear [Under Armour Men's HeatGear Sonic Compression Shorts](http://smile.amazon.com/dp/B008BIC1TQ/ref=pe_385040_30332190_TE_dp_2/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=dothopper-20&linkId=fbea00a687ae2b338369dc1f5eb7d988) in a size Large.
 
-##### Notes
+#### Notes
 
 <small>[On Reddit](https://www.reddit.com/r/Ultralight/comments/4fxx0t/im_6_9_and_have_started_collecting_my_notes_on/) people had several suggestions for other brands to look at: [Fjällräven](http://www.fjallraven.com/), [Kuhl](http://www.kuhl.com/kuhl/mens/pants/), [Mountain Khakis](http://www.mountainkhakis.com/), and [Prana](https://www.prana.com) pants.</small>
 
@@ -105,7 +105,7 @@ Luke from [Luke's Ultralight](http://lukesultralite.com) added length to a wind 
 I bought a customized [Argon Wind Shell from Luke's Ultralight](http://lukesultralite.com/argon-wind-shell). Luke added 4" to the torso and made the sleeves 23" from pit to wrist. With pit-zips and adjustable cuffs, it cost me $112 in 2016. Luke did amazing work on this; the fit is perfect.
 
 
-##### Notes
+#### Notes
 
 <small>The large Patagonia Houdini Jacket didn't fit me. I considered trying a [ZPacks Ventum](http://www.zpacks.com/accessories/wind_shell.shtml).</small>
 
